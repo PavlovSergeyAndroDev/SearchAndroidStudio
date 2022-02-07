@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expo</string>
+    <string name="app_label">Expo</string>
+    <string name="search_hint">Какой фильм найти?</string>
+</resources>
