@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GB/Expo/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/GB/Expo/app/src/main/res/layout/search_btn.xml" value="0.4" />
+        <entry key="..\:/GB/Expo/app/src/main/res/menu/menu.xml" value="0.11302083333333333" />
+        <entry key="..\:/GB/Expo/app/src/main/res/menu/menu_toolbar.xml" value="0.11302083333333333" />
         <entry key="..\:/GB/Expo/app/src/main/res/xml/searchable.xml" value="0.11302083333333333" />
       </map>
     </option>
